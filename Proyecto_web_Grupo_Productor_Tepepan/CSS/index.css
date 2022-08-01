@@ -1,0 +1,82 @@
+
+body{
+  font-family: Arial;
+}
+.pazzioli{
+  font-family: 'Piazzolla', serif;
+}
+.titulo{
+  margin-top: 0;
+}
+
+.body{
+  padding: 5px 5px;
+}
+
+.main-nav a{
+  width: 18%;
+  text-align: center;
+  display: inline-block;
+}
+
+.main-header{
+  background-color:#573104;
+  padding: left 80px;
+  padding: right 80px;
+  padding-top:10px;
+  padding-bottom:10px;
+  border-radius:4px;
+}
+
+.nav-link{
+  color:white;
+  margin-right: -5px;
+  text-decoration: none;
+}
+
+.text-center{
+  text-align:center;
+}
+
+.main-container{
+  min-height: 100vh;
+}
+
+.product img{
+  width: 220px;
+  border: 1px solid; 
+  border-color: #cccc7d;
+}
+
+.product h4{
+  font-size: 1.2em;
+  margin-top: 1px;
+  margin-bottom: 15px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.card{
+  background-color: rgba(211,211,211, 0.5);
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 12), 0 1px 3px rgba(0, 0, 0, 24);
+  margin-bottom: 50px;
+}
+
+.threeD{
+  text-shadow: 1px 3px 0px #d7d0b7, 1px 13px 5px rgba(0, 0, 0, 0.2);
+
+}
+
+.delay-1{
+  animation-delay: 0.10s;
+}
+.delay-2{
+  animation-delay: 0.15s;
+}
+.delay-3{
+  animation-delay: 0.20s;
+}
+.delay-4{
+  animation-delay: 0.25s;
+}
